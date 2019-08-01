@@ -1,6 +1,5 @@
 package spock
 
-import java.lang.invoke.LambdaForm.Name
 
 import javax.servlet.http.HttpServletRequest
 
